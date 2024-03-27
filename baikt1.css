@@ -11,6 +11,8 @@ body{
 }   
 menu{
     padding: 0px 10px;
+    color: white;
+    text-decoration: none;
 }
 .nav-item{
     margin-left: 20px;
