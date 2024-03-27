@@ -1,9 +1,11 @@
+*{
+    color: white;
+    text-decoration: none;
+}
 body{
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
-    color: white;
-    text-decoration: none;
 }
 .banner img{
     width: 100%;
@@ -11,8 +13,6 @@ body{
 }   
 menu{
     padding: 0px 10px;
-    color: white;
-    text-decoration: none;
 }
 .nav-item{
     margin-left: 20px;
