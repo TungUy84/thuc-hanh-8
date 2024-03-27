@@ -17,10 +17,6 @@ menu{
 .nav-item{
     margin-left: 20px;
 }
-.nav-link{
-    color: white;
-    text-decoration: none;
-}
 .search{
     padding: 5px;
     height: 40px;
@@ -147,7 +143,10 @@ section{
     background-color: #bb3535;
     color: #fff
 }
-
+.nav-link{
+    color: #fff;
+    text-decoration: none;
+}
 footer{
     float: right;
     width: 100%;
